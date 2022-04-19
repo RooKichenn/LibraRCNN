@@ -1,0 +1,95 @@
+COCO results:
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.371
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.585
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.399
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.214
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.407
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.488
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.302
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.481
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.508
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.313
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.544
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.649
+
+mAP(IoU=0.5) for each category:
+ person         : 0.8232730886798549
+ bicycle        : 0.5249709947993839
+ car            : 0.6799939117509658
+ motorcycle     : 0.7214204574521202
+ airplane       : 0.8586427263696026
+ bus            : 0.7931830900264454
+ train          : 0.823913933753069
+ truck          : 0.5443915999718008
+ boat           : 0.49124735606806785
+ traffic light  : 0.536799766716479
+ fire hydrant   : 0.8365918795749084
+ stop sign      : 0.7518423121967152
+ parking meter  : 0.6100670849535585
+ bench          : 0.3386426767390031
+ bird           : 0.5716347103098539
+ cat            : 0.886794779323384
+ dog            : 0.7978295655256974
+ horse          : 0.8408400704109861
+ sheep          : 0.7618420559010766
+ cow            : 0.7918618961220825
+ elephant       : 0.8744889325461735
+ bear           : 0.8248352848494287
+ zebra          : 0.880978342138429
+ giraffe        : 0.8676783071129754
+ backpack       : 0.26799184643311874
+ umbrella       : 0.5861087080732539
+ handbag        : 0.2548394302753171
+ tie            : 0.5167530016965868
+ suitcase       : 0.6107405982410463
+ frisbee        : 0.8045387942562431
+ skis           : 0.43147704226843814
+ snowboard      : 0.47122224007291835
+ sports ball    : 0.6879498803194839
+ kite           : 0.6487100248175793
+ baseball bat   : 0.46327198863117436
+ baseball glove : 0.6111449850924572
+ skateboard     : 0.7607196293577959
+ surfboard      : 0.5870610876918315
+ tennis racket  : 0.739190394989362
+ bottle         : 0.5545279990399468
+ wine glass     : 0.5546278895681322
+ cup            : 0.573427294570234
+ fork           : 0.4607211619781768
+ knife          : 0.26663635949066744
+ spoon          : 0.22734867966254924
+ bowl           : 0.5378788002907062
+ banana         : 0.4243575359382571
+ apple          : 0.28074651751451324
+ sandwich       : 0.48760341384665734
+ orange         : 0.40343702754494637
+ broccoli       : 0.4094231266411167
+ carrot         : 0.3650230165837656
+ hot dog        : 0.5104476431367786
+ pizza          : 0.6881881881395774
+ donut          : 0.5922024861091681
+ cake           : 0.5603753005415882
+ chair          : 0.43638285555170364
+ couch          : 0.5569202867907262
+ potted plant   : 0.4476282812380912
+ bed            : 0.6025298993229115
+ dining table   : 0.38991904023605584
+ toilet         : 0.7437721997859166
+ tv             : 0.7272678123838798
+ laptop         : 0.7398497259786081
+ mouse          : 0.7644876821281826
+ remote         : 0.4885516783466585
+ keyboard       : 0.7249901882852482
+ cell phone     : 0.5060806445654036
+ microwave      : 0.648797131919064
+ oven           : 0.48782437984775423
+ toaster        : 0.35478547854785475
+ sink           : 0.5412642215185682
+ refrigerator   : 0.6964617954313798
+ book           : 0.33950950322642104
+ clock          : 0.7247035171358943
+ vase           : 0.5759191478609316
+ scissors       : 0.36523128534790233
+ teddy bear     : 0.6754898993013048
+ hair drier     : 0.16633663366336632
+ toothbrush     : 0.2938001211094063
