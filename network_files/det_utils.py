@@ -440,6 +440,7 @@ def smooth_l1_loss(input, target, beta: float = 1. / 9, size_average: bool = Tru
     return loss.sum()
 
 
+# LibraRCNN中的损失函数
 def balanced_l1_loss(input, target, beta=1.0, alpha=0.5, gamma=1.5,
                      reduction='mean'):
     assert beta > 0
