@@ -4,7 +4,7 @@ from typing import List, Tuple
 from torch import Tensor
 import numpy as np
 
-
+# LibraRCNN中分层采样
 class BalancedPositiveNegativeSampler(object):
     """
     This class samples batches, ensuring that they contain a fixed proportion of positives
