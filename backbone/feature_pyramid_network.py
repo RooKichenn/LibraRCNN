@@ -7,7 +7,7 @@ import torch.nn.functional as F
 
 from torch.jit.annotations import Tuple, List, Dict
 
-
+# LibraRCNN中FPN代码
 class NonLocalBlockND(nn.Module):
     """
     调用过程
